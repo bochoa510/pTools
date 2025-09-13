@@ -1,0 +1,2 @@
+- electronic components for pcb
+- parts list: 
