@@ -1,0 +1,4 @@
+- radiator reservoir digital pressure gauge 
+- reads pressure applied to reservoir 
+- displays pressure on small screen 
+- battery powered or vehicle 12V batt maybe impact style batteries
